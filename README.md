@@ -1,4 +1,5 @@
 ### 🐾 Hi there
+---
 
 I believe that education develops society and that emotional education is a crucial component in primary education. I'm working to make it more accessible through technology 💻
 
