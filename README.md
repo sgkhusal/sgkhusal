@@ -5,7 +5,6 @@ I believe that education develops society and that emotional education is a cruc
 
 I also believe that love is the answer for the changes that we want and need in the world 💜
 
----
 *  🧐 always curious
 *  🤓 love learning
 *  👩‍🚀 cadet at [42 São Paulo](https://www.42sp.org.br/)
