@@ -8,7 +8,8 @@ I also believe that love is the answer for the changes that we want and need in 
 *  🧐 always curious
 *  🤓 love learning
 *  👩‍🚀 cadet at [42 São Paulo](https://www.42sp.org.br/)
-*  🌱 I’m currently learning C, dart and flutter
+*  🚀 I had experience with C programming
+*  🌱 I’m currently learning C++, python, dart and flutter
 *  🛩️ graduated aeronautic engineer at [USP](https://eesc.usp.br/)
 ---
 ![Snake animation](https://github.com/sgkhusal/sgkhusal/blob/output/github-contribution-grid-snake.svg)
