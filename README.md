@@ -13,8 +13,6 @@ I also believe that love is the answer to the changes that we want and need in t
 *  🛩️ graduated aeronautic engineer at [USP](https://eesc.usp.br/)
 ---
 
-![Snake animation](https://github.com/sgkhusal/sgkhusal/blob/output/github-contribution-grid-snake.svg)
-
 | [![sgkhusal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgkhusal&include_all_commits=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/sgkhusal?tab=repositories) | [![sgkhusal's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgkhusal&layout=compact&hide_border=true&theme=radical)](https://github.com/sgkhusal?tab=repositories) |
 |:-:|:-:|
 
